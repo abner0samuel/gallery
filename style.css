@@ -41,4 +41,7 @@
     content: "";
     width: 350px;
   }
-  
+  i{
+    width:200px;
+    height: 200px;
+  }
